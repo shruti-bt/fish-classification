@@ -38,10 +38,11 @@ python main.py --data_path="/path-to-dataset" \
 ## Results
 
 ### Accuracy plot for training and validation:
-![acc image](https://github.com/shruti-bt/fish-classification/blob/master/outputs/images/loss.png?raw=true)
+![acc image](https://github.com/shruti-bt/fish-classification/blob/master/outputs/images/acc.png?raw=true)
 
 ### Loss plot for training and validation:
-![acc image](outputs\images\loss.png)
+![acc image](https://github.com/shruti-bt/fish-classification/blob/master/outputs/images/loss.png?raw=true)
+()
 
 ### Classification results for test images:
-![acc image](outputs\images\results.png)
+![acc image](https://github.com/shruti-bt/fish-classification/blob/master/outputs/images/results.png?raw=true)
