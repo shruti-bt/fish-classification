@@ -34,3 +34,14 @@ python main.py --data_path="/path-to-dataset" \
                 --test_img="/path-to-test-images" \
                 --test
 ```
+
+## Results
+
+### Accuracy plot for training and validation:
+![acc image](outputs\images\acc.png)
+
+### Loss plot for training and validation:
+![acc image](outputs\images\loss.png)
+
+### Classification results for test images:
+![acc image](outputs\images\results.png)
